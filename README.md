@@ -1,4 +1,4 @@
-0# E-Commerce App 🛒📱
+# E-Commerce App 🛒📱
 
 ## Description  
 This is a mobile application that allows users to browse product categories, view products, and manage their shopping experience. Users can add products to their cart or mark them as favorites, perform a search to find products, and change the app's language to Arabic through settings. All product data is fetched from an API and stored remotely.
