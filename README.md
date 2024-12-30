@@ -44,11 +44,22 @@ This is a mobile application that allows users to browse product categories, vie
 5. **Change Language**:  
    - Go to **Settings** to switch between English and Arabic.
 
-## Tech Stack  
-- **Frontend**: Flutter (Dart)  
-- **Backend**: API (for product data)  
-- **State Management**: (Future Implementation)  
-- **Database**: Remote storage (via API)
+## Technologies Used
+
+### 1. **Flutter (Dart)**  
+- Flutter is used to develop the cross-platform mobile application, providing a smooth user experience and fast performance.
+- Dart is the programming language used for app development in Flutter.
+
+### 2. **SharedPreferences**  
+- Used for storing user preferences such as language selection locally on the device for a more personalized experience.
+
+### 3. **API**  
+- An external API is used to fetch product data, including product categories, details, and other information displayed in the app.
+- API also handles adding and updating product data.
+
+### 4. **Remote Storage (API-based)**  
+- All product data, user interactions, and transactions are stored remotely, ensuring data persistence and accessibility across devices.
+
 
 ## Screenshots
 
