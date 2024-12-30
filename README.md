@@ -1,4 +1,4 @@
-# E-Commerce App 🛒📱
+0# E-Commerce App 🛒📱
 
 ## Description  
 This is a mobile application that allows users to browse product categories, view products, and manage their shopping experience. Users can add products to their cart or mark them as favorites, perform a search to find products, and change the app's language to Arabic through settings. All product data is fetched from an API and stored remotely.
@@ -6,7 +6,9 @@ This is a mobile application that allows users to browse product categories, vie
 ## Features  
 ### 1. **Product Categories**  
 - Users can browse the following categories:  
-  - **Electronics**  
+  - **Electronics**
+  - **Prevent Corona**
+  - **Lighting**
   - **Fruits**  
   - **Clothing**  
   - **Sports**  
@@ -30,11 +32,11 @@ This is a mobile application that allows users to browse product categories, vie
 ## Usage  
 ### **How to Use the App**  
 1. **Browse Categories**:  
-   - Open the app and browse through categories like Electronics, Fruits, Clothing, and Sports.  
+   - Open the app and browse through categories like Electronics, Fruits, Clothing, Lighting, Prevent Corona, and Sports.  
 
 2. **View Product Details**:  
    - Tap on any product to see detailed information such as its image, name, price, and description.
-
+ 
 3. **Add to Favorites or Cart**:  
    - Add products to your favorites or shopping cart to keep track of your selections (*future work*).
 
@@ -55,6 +57,23 @@ This is a mobile application that allows users to browse product categories, vie
 ## Screenshots
 
 ### 1- Home Page
+<img src="https://ibb.co/6ZGWtK0" width="250" height="450"/> <img src="https://ibb.co/t8D0tC6" width="250" height="450"/> <img src="https://ibb.co/09THTdJ" width="250" height="450"/> <img src="https://ibb.co/2tHgkQj" width="250" height="450"/> <img src="https://ibb.co/gSKp8Mx" width="250" height="450"/> <img src="https://ibb.co/N9vNtz9" width="250" height="450"/> 
+
+
+### 2- Cart Page
 <img src="" width="250" height="450"/> 
+
+### 3- Favorites Page
+<img src="" width="250" height="450"/> 
+
+### 4- Search Option
+<img src="https://ibb.co/LvrBzY1" width="250" height="450"/> <img src="https://ibb.co/xg9Nn7r" width="250" height="450"/> <img src="https://ibb.co/FX226cm" width="250" height="450"/> 
+
+### 5- Settings Page
+<img src="" width="250" height="450"/> 
+
+
+
+
 
 
