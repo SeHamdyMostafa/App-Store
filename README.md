@@ -21,7 +21,8 @@ This is a Flutter-based E-Commerce application that provides users with a seamle
 ## API Integration
 This application communicates with an external API to perform the following actions:
 - Fetch categories and products.
-- Add, update, or delete products in the cart or favorites list.
+- Add or update products in the cart list.
+- Add or delete products in the favorites list.
 
 ## Screenshots
 
