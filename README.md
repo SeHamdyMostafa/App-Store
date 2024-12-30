@@ -53,19 +53,6 @@ This is a mobile application that allows users to browse product categories, vie
 ## Screenshots
 
 ### 1- Home Page
-<img src="https://i.imghippo.com/files/eTYu3713jgY.png" width="250" height="450"/> <img src="https://i.imghippo.com/files/RSjM2782sE.png" width="250" height="450"/>
-
-### 2- Product Categories  
-<img src="https://i.imghippo.com/files/Etc9060ekY.png" width="250" height="450"/> <img src="https://i.imghippo.com/files/ZoP9000ac.png" width="250" height="450"/>
-
-### 3- Product Details  
-<img src="https://i.imghippo.com/files/HQP4742t.png" width="250" height="450"/> <img src="https://i.imghippo.com/files/KFD3062SI.png" width="250" height="450"/>
-
-### 4- Settings Page  
-<img src="https://i.imghippo.com/files/NTT4538wcc.png" width="250" height="450"/>
-
-### 5- Change Language Page  
-<img src="https://i.imghippo.com/files/LIx8019oQ.png" width="250" height="450"/>
-
+<img src="" width="250" height="450"/> 
 
 
