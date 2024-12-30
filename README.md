@@ -57,8 +57,7 @@ This is a mobile application that allows users to browse product categories, vie
 ## Screenshots
 
 ### 1- Home Page
-<img src="https://ibb.co/6ZGWtK0" width="250" height="450"/> <img src="https://ibb.co/t8D0tC6" width="250" height="450"/> <img src="https://ibb.co/09THTdJ" width="250" height="450"/> <img src="https://ibb.co/2tHgkQj" width="250" height="450"/> <img src="https://ibb.co/gSKp8Mx" width="250" height="450"/> <img src="https://ibb.co/N9vNtz9" width="250" height="450"/> 
-
+<img src="https://i.ibb.co/y6j1Cnr/photo-4-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> 
 
 ### 2- Cart Page
 <img src="" width="250" height="450"/> 
@@ -67,7 +66,7 @@ This is a mobile application that allows users to browse product categories, vie
 <img src="" width="250" height="450"/> 
 
 ### 4- Search Option
-<img src="https://ibb.co/LvrBzY1" width="250" height="450"/> <img src="https://ibb.co/xg9Nn7r" width="250" height="450"/> <img src="https://ibb.co/FX226cm" width="250" height="450"/> 
+<img src="" width="250" height="450"/> 
 
 ### 5- Settings Page
 <img src="" width="250" height="450"/> 
