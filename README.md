@@ -46,19 +46,10 @@ This is a mobile application that allows users to browse product categories, vie
 
 ## Technologies Used
 
-### 1. **Flutter (Dart)**  
-- Flutter is used to develop the cross-platform mobile application, providing a smooth user experience and fast performance.
-- Dart is the programming language used for app development in Flutter.
-
-### 2. **SharedPreferences**  
-- Used for storing user preferences such as language selection locally on the device for a more personalized experience.
-
-### 3. **API**  
-- An external API is used to fetch product data, including product categories, details, and other information displayed in the app.
-- API also handles adding and updating product data.
-
-### 4. **Remote Storage (API-based)**  
-- All product data, user interactions, and transactions are stored remotely, ensuring data persistence and accessibility across devices.
+- **Flutter (Dart)**: Framework for building the app, providing a smooth cross-platform experience.
+- **SharedPreferences**: For storing user preferences like language selection locally.
+- **API**: Used for fetching product data and handling updates.
+- **Remote Storage**: All product and user data is stored remotely via the API.
 
 
 ## Screenshots
