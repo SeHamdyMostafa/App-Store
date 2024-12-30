@@ -87,8 +87,10 @@ This is a mobile application that allows users to browse product categories, vie
 ### 5- Settings Page
 <img src="https://i.ibb.co/mzCkFnq/photo-13-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+### 5- Localization
+<img src="https://i.ibb.co/pZbSL1w/photo-12-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/BVHwQ6w/photo-11-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/9yM63bt/photo-17-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> 
 
 
 
