@@ -57,7 +57,7 @@ This is a mobile application that allows users to browse product categories, vie
 ## Screenshots
 
 ### 1- Home Page
-<img src="https://i.ibb.co/y6j1Cnr/photo-4-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> 
+<img src="https://i.ibb.co/QchKHWv/photo-8-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/WgfrwKX/photo-6-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/T0696Fh/photo-10-2024-12-29-16-58-02-portrait.png" width="250" height="450"/>  <img src="https://i.ibb.co/XsMSCgz/photo-9-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/wwC0qQB/photo-7-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/y6j1Cnr/photo-4-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> 
 
 ### 2- Cart Page
 <img src="" width="250" height="450"/> 
