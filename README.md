@@ -60,16 +60,15 @@ This is a mobile application that allows users to browse product categories, vie
 <img src="https://i.ibb.co/QchKHWv/photo-8-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/WgfrwKX/photo-6-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/T0696Fh/photo-10-2024-12-29-16-58-02-portrait.png" width="250" height="450"/>  <img src="https://i.ibb.co/XsMSCgz/photo-9-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/wwC0qQB/photo-7-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/y6j1Cnr/photo-4-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> 
 
 ### 2- Cart Page
-<img src="" width="250" height="450"/> 
-
+<img src="https://i.ibb.co/9yM63bt/photo-17-2024-12-29-16-58-02-portrait.png" width="250" height="450" ></a>
 ### 3- Favorites Page
-<img src="" width="250" height="450"/> 
+<img src="https://i.ibb.co/Rv5WSfL/photo-16-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> 
 
 ### 4- Search Option
-<img src="" width="250" height="450"/> 
+<img src="https://i.ibb.co/7QPPvBj/photo-3-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/3kvVy4c/photo-2-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> <img src="https://i.ibb.co/94K7xrd/photo-1-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> 
 
 ### 5- Settings Page
-<img src="" width="250" height="450"/> 
+<img src="https://i.ibb.co/mzCkFnq/photo-13-2024-12-29-16-58-02-portrait.png" width="250" height="450"/> 
 
 
 
