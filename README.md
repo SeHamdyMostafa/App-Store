@@ -13,17 +13,9 @@ This is a Flutter-based E-Commerce application that provides users with a seamle
 - **API Integration:** All product data is fetched, added, and updated dynamically through an external API.
 
 ## Technologies Used
-- **Flutter: Used for developing the application.
-- **Dart: Programming language used for writing the app.
-- **API: To fetch, modify, add, delte, and store product data.
-
-- 1- 
-
-2- 
-
-3- Firebase: Used for storing user data, orders, and all food-related data.
-
-
+- **Flutter:** Used for developing the application.
+- **Dart:** Programming language used for writing the app.
+- **API:** To fetch, modify, add, delte, and store product data.
 
 ## API Integration
 This application communicates with an external API to perform the following actions:
